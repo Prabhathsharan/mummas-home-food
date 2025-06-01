@@ -4,3 +4,4 @@ inflection==0.5.1
 openpyxl==3.0.10
 protobuf==3.20.3
 pyasn1-modules==0.2.8
+werkzeug<2.3
